@@ -2,6 +2,11 @@
 
 A modern dashboard and backend for analyzing, clustering, and predicting cybersecurity incidents using temporal patterns. Built with Python (Flask backend) and a beautiful, interactive frontend (HTML/JS/Chart.js).
 
+## Screenshots
+
+![Dashboard Screenshot1](Screenshot_2025-12-03_00_50_07.png)
+![Dashboard Screenshot2](Screenshot_2025-12-03_00_53_09.png)
+
 ## Features
 
 - **Upload & Analyze Incidents:** Upload your own CSV/JSON of incidents or generate synthetic data.
@@ -61,10 +66,6 @@ A modern dashboard and backend for analyzing, clustering, and predicting cyberse
 - `attack_type` (string)
 - `severity` (int or string)
 - `description` (string)
-
-## Screenshots
-
-![Dashboard Screenshot](Screenshot_2025-12-03_00_50_07.png)
 
 ## License
 
