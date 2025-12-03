@@ -322,14 +322,14 @@ def predictions():
 
 # ========================================
 # Auto-open Browser
-# ========================================
-def open_browser():
-    webbrowser.open("http://localhost:5000")
+# # ========================================
+# def open_browser():
+#     webbrowser.open("http://localhost:5000")
 
 
 # ========================================
 # Run Flask App
 # ========================================
 if __name__ == "__main__":
-    threading.Timer(1.5, open_browser).start()
+    # threading.Timer(1.5, open_browser).start()
     app.run(host="0.0.0.0", port=5000, debug=True)
