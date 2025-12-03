@@ -2,9 +2,6 @@
 
 A modern dashboard and backend for analyzing, clustering, and predicting cybersecurity incidents using temporal patterns. Built with Python (Flask backend) and a beautiful, interactive frontend (HTML/JS/Chart.js).
 
-# LIVE PROJECT
-visist to experience: (https://temperal-clustering-of-cyber-security.onrender.com/)
-
 ## Screenshots
 
 ![Dashboard Screenshot1](Screenshot_2025-12-03_00_50_08.png)
