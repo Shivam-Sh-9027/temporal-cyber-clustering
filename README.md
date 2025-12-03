@@ -4,8 +4,8 @@ A modern dashboard and backend for analyzing, clustering, and predicting cyberse
 
 ## Screenshots
 
-![Dashboard Screenshot1](screenshot.png)
-![Dashboard Screenshot2](screenshot.png)
+![Dashboard Screenshot1](Screenshot_2025-12-03_00_50_08.png)
+![Dashboard Screenshot2](Screenshot_2025-12-03_00_53_09.png)
 
 ## Features
 
