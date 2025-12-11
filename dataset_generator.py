@@ -8,7 +8,6 @@ def generate_dataset(n=100000, days=90):
 
     start_date = datetime.now() - timedelta(days=days)
 
-    # Random timestamps
     timestamps = [
         start_date + timedelta(
             days=np.random.randint(0, days),
